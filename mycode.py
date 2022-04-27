@@ -1,5 +1,8 @@
 #!/usr/bin/bash/python
 
+'''
+sample
+'''
 import math
 import collections
 from collections import deque
